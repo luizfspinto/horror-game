@@ -61,3 +61,18 @@ a:hover,
   background-color: #FFC700;
   opacity: 1;
 }
+
+/*mobile*/
+@media (max-width: 453px) {
+  h1 {
+    font-size: 54px;
+  }
+
+  p {
+    margin-bottom: 22px;
+  }
+
+  a {
+    display: inline-block;
+  }
+}
